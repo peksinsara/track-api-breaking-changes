@@ -1,0 +1,8 @@
+{
+  "apis": [
+    {
+      "name": "Open Weather Map",
+      "url": "http://api.openweathermap.org/data/2.5/air_pollution/history?lat=508&lon=50&start=1606223802&end=1606482999&appid={API_KEY}"
+    }
+  ]
+}
