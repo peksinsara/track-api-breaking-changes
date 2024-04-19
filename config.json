@@ -1,8 +1,12 @@
 {
   "apis": [
     {
-      "name": "Open Weather Map",
-      "url": "http://api.openweathermap.org/data/2.5/air_pollution/history?lat=508&lon=50&start=1606223802&end=1606482999&appid={API_KEY}"
+      "name": "Open Weather Air Pollution",
+      "url": "http://api.openweathermap.org/data/2.5/air_pollution/history?lat=43.8564308&lon=18.413029&start=1606223802&end=1606482999&appid={API_KEY}"
+    },
+    {
+      "name": "Open Weather Current Weather",
+      "url": "http://api.openweathermap.org/data/2.5/weather?lat=43.8564308&lon=18.413029&start=1606223802&end=1606482999&appid={API_KEY}"
     }
   ]
 }
